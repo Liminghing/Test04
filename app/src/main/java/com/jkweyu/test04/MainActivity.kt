@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         //test
         //is-03 test
+        //is-02 test
 
         setContentView(R.layout.activity_main)
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
