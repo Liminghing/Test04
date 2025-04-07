@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         enableEdgeToEdge()
 
         //test
+        
 
         setContentView(R.layout.activity_main)
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
